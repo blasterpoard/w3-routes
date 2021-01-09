@@ -5,8 +5,8 @@
   - Start moving Tree of Life southwest
   - Move your archer north to get 3 more archers
   - Order wisps to gather wood
-- (Optional) Get healing wards from a tent near the human base
 - Wait until you get the archers, then move them towards your Tree of Life
+- (Optional) Get healing wards from a tent near the human base
 - Lure the paladin towards your Tree of Life
   - Start by attacking human Barracks once with Tyrande
   - (Optional) Wait until paladin comes closer to make sure he doesn't run back
