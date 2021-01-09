@@ -1,0 +1,24 @@
+### Night Elf 1: Enemies at the Gate
+
+- Starting micro:
+  - Move Tyrande towards the enemy base
+  - Start moving Tree of Life southwest
+  - Move your archer north to get 3 more archers
+  - Order wisps to gather wood
+- (Optional) Get healing wards from a tent near the human base
+- Wait until you get the archers, then move them towards your Tree of Life
+- Lure the paladin towards your Tree of Life
+  - Start by attacking human Barracks once with Tyrande
+  - (Optional) Wait until paladin comes closer to make sure he doesn't run back
+  - Start moving Tyrande towards your Tree of Life, attacking one of the grunts every 3-4 seconds
+- When paladin is close enough to the Tree of LIfe:
+  - (Optional) Hit the paladin once to trigger Divine Shield
+  - Deal damage to the grunt until paladin uses Holy Light
+  - Run away
+  - Run back
+  - (If you didn't do it before) Hit the paladin once to trigger Divine Shield
+  - Wait for the divine shield to expire
+- Lure the paladin towards your Tree of Life
+- Make the paladin attack Tree of Life
+- Kill the paladin
+- Mash ESC
