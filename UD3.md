@@ -1,0 +1,34 @@
+### Undead 3: Into the Realm Eternal
+
+The two most important things in this chapter are to get to the high elf base we're supposed to destroy as fast as possible, and to not lose any meat wagons before getting there. Therefore, the goal at the start of this mission is to start building the necropolis we'll TP to ASAP - which means that we don't want to fight Sylvanas before that and we needs to somehow distract here until after the gnolls guarding the necropolis location are dealt with.
+
+- Starting micro:
+  - Start moving the meat wagons immediately; they are slow and they need to destroy a wall of trees south of the base
+  - Build a haunted gold mine (sometimes one of the acolytes does it on his own, sometimes not)
+  - Build a Necropolis in a specific location (see videos of my IL or campaign runs) close to the town hall. The point of this is to make Sylvanas attack it when she walks around the base so that she doesn't follow Arthas who has better things to do than fighting her. If it was built in the correct position, only Sylvanas should attack it and the two footmen will keep walking towards Arthas. If it was built too far, it does nothing; and if it is too close, the two footmen will attack it too - their have a bit shorter aggro range than Sylvanas, but the path they (and Sylvanas) take isn't always exactly the same.
+    The necropolis has enough HP to finish construction if only Sylvanas is attacking it and we won't have to fight her at all. However, if the footmen attack it as well, it will die, but it will buy enough time to kill the gnolls and fighting her while waiting for the 2nd necropolis to finish doesn't lose any time - so in campaign runs, feel free to build the necropolis a bit closer to Sylvanas's path to completely avoid the option of her ignoring it.
+  - Kill the elven archer and use a necromancer to summon 2 skeletons to delay Sylvanas to buy some time for the Necropolis to gain HP.
+  - Order 4 acolytes to mine gold (at least to wait to mine gold when the gold mine is finished)
+  - Set up the control groups (ghouls, necromancers, wagons, 1 acolyte) and move the army (+ 1 acolyte) south
+- Destroy the trees blocking the path towards the goblin shop; make sure that the army is already standing next to the trees when they go down; the acolyte should be in the front. Keep in mind that around the time when the trees are destroyed, the game will move the camera towards Sylvanas, so watch the minimap to know when will this happen to avoid right-clicking right after the camera moves and moving units toward her (the fastest way to move the camera back is to double-tap one of the control group keys)
+- Move the entire army towards the goblin shop. The next engagement probably the hardest part of this mission to learn, but it becomes almost trivial with a bit of practice. The acolyte should keep moving towards the spot when he's going to build the necropolis. However, he is slow, and that gives us time to properly prepare for the engagement:
+  - Arthas, ghouls and necromancers should start attacking the archers close to the goblin shop
+  - Meat wagons should move above the trees to the east of the goblin shop so that they can attack the gnolls from behind the trees after Arthas pulls them.
+  - (Optional) Buy a health potion for Arthas
+- When acolyte comes close enough, move Arthas towards the gnoll camp, destroy the two crates next to the river, and then move to the west to make the gnolls follow him (use shift+H(hold position) command to make sure he doesn't run back to melee the gnolls), clearing the space for the necropolis. This is when the acolyte should arrive and build the necropolis. Arthas should be able to tank all the gnolls while the meat wagons kill them; use the health potions here because  we will need the inventory slots anyway, and also use death coils offensively against the gnolls (save at least ~135 mana). If ranged gnolls are attacking a meat wagon, move the damaged wagon back a bit.
+- When the ghouls and necromancers kill the archers, summon skeletons to assist Arthas with the gnolls.
+  - If the 2 footmen are not attacking the necropolis in the north, position the ghouls and necromancers to deal with them, because they are about to arrive.
+  - If the 2 footmen are (were) attacking the necropolis, the necropolis is about to die; use gnolls and necromancers to kill the gnolls faster, before Sylvanas comes. When the gnolls die, get ready for Sylvanas to arrive, then kill her using 2 lvl 2 coils (that's what we saved the mana for), ghouls, skeletons and meat wagons; don't use the necromancers here, because Sylvanas can kill them *really* fast and pulling them back doesn't always work because of her Cold Arrow ability; also remember to move damaged ghouls away. Kill the footmen only after Sylvanas is dead. Consider buying a healing scroll in the shop to avoid losing ghouls to Sylvanas.
+- Wait for the necropolis to finish; there are several things to do in the meantime:
+  - Pick up the Health Stone that dropped from the gnolls and the Book of the Dead that is in one of the gnoll huts.
+  - Repair the meat wagons with the acolyte that built the necropolis
+  - If Sylvanas is still attacking the necropolis in the north, watch out for when the necropolis's construction is finished and then start repairing it with an acolyte; shortly before using the TP, add a second acolyte. If you forget about this, be ready for Sylvanas to intercept you in the elven base at the end (it doesn't matter unless she kills a meat wagon there).
+  - Around 2:30 IGT, 2 archers and a footman will attack; don't lose anything to them
+  - Buy 2 Scrolls of Town Portal; feel free to buy an extra item with any extra gold (be careful about inventory space in UD4 though!)
+  - Position units so that the ghouls are close to Arthas, necromancers and meat wagons should be to the left of Arthas
+  - If too many ghouls/necromancers died, use the Book of the Dead right before the TP. However, keeping it in the inventory makes the next mission more consistent and destroying the elven base is really easy.
+- TP to the shallow water to the east of the new necropolis.
+- Move out of the small space you end up in ASAP; the meat wagons should be blocked in the back and should focus the tower before the other units allow them to move towards the other elven buildings. Kill the army with Arthas, ghouls, skeletons and necromancers; the meat wagons should attack nothing but the buildings you need to destroy to win. Keep in mind that coming too close to the base's intended entrance will spawn more units for the enemy.
+- You need to destroy only the castle, the barracks, the altar and the arcane sanctum to win.
+- In a campaign run, you can exit the mission when "MAIN QUEST COMPLETED" appears on your screen.
+
